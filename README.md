@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akasthiya
 - 👀 I’m interested in Problem solving,Java,Data Science and Front end development
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Front-end projects
+- 💞️ I’m looking to collaborate on Front-end projects and data analysis
 - 📫 How to reach me email-akasthiyak@gmail.com
 
 <!---
